@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="Shift-JIS"?>
+<Root Text="office.frog256">
+  <Customer Text="田中常義様">
+    <Business Text="何とかシステム開発業務">
+      <Class Text="分類名CL00001">
+        <Detail Text="詳細名DT00001">
+          <WorkTime Date="20120409" Time="01.00" Start="09:00" End="10:00" UserID="" />
+          <WorkTime Date="20120409" Time="01.00" Start="11:00" End="12:00" UserID="" />
+        </Detail>
+        <Detail Text="詳細名DT00004">
+          <WorkTime Date="20120416" Time="01.00" Start="09:00" End="10:00" UserID="20120416121455750" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business Text="業務名BS00002">
+      <Class Text="分類名CL00002">
+        <Detail Text="詳細名DT00002">
+          <WorkTime Date="20120409" Time="01.00" Start="10:00" End="11:00" UserID="" />
+          <WorkTime Date="20120410" Time="01.00" Start="10:00" End="11:00" UserID="001" />
+        </Detail>
+      </Class>
+    </Business>
+  </Customer>
+  <Customer Text="顧客名CS00002">
+    <Business Text="業務名BS00003">
+      <Class Text="分類名CL00003">
+        <Detail Text="詳細名DT00003">
+          <WorkTime Date="20120410" Time="01.00" Start="09:00" End="10:00" UserID="001" />
+        </Detail>
+      </Class>
+    </Business>
+  </Customer>
+</Root>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="Shift-JIS"?>
+<Root IsExpaned="True" IsSelected="False">
+  <Customer IsExpaned="True" IsSelected="False">
+    <Business IsExpaned="True" IsSelected="False">
+      <Class IsExpaned="True" IsSelected="False">
+        <Detail IsExpaned="True" IsSelected="False">
+          <WorkTime IsExpaned="False" IsSelected="False" />
+          <WorkTime IsExpaned="False" IsSelected="False" />
+        </Detail>
+        <Detail IsExpaned="True" IsSelected="True">
+          <WorkTime IsExpaned="False" IsSelected="False" />
+        </Detail>
+      </Class>
+    </Business>
+    <Business IsExpaned="True" IsSelected="False">
+      <Class IsExpaned="True" IsSelected="False">
+        <Detail IsExpaned="True" IsSelected="False">
+          <WorkTime IsExpaned="False" IsSelected="False" />
+          <WorkTime IsExpaned="False" IsSelected="False" />
+        </Detail>
+      </Class>
+    </Business>
+  </Customer>
+  <Customer IsExpaned="True" IsSelected="False">
+    <Business IsExpaned="True" IsSelected="False">
+      <Class IsExpaned="True" IsSelected="False">
+        <Detail IsExpaned="True" IsSelected="False">
+          <WorkTime IsExpaned="False" IsSelected="False" />
+        </Detail>
+      </Class>
+    </Business>
+  </Customer>
+</Root>
